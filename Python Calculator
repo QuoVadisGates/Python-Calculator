@@ -1,0 +1,25 @@
+Last login: Tue Nov 28 17:32:56 on ttys001
+quovadisgates@QuoVadiss-MacBook-Pro ~ % python
+
+WARNING: Python 2.7 is not recommended. 
+This version is included in macOS for compatibility with legacy software. 
+Future versions of macOS will not include Python 2.7. 
+Instead, it is recommended that you transition to using 'python3' from within Terminal.
+
+Python 2.7.18 (default, Jan  4 2022, 17:47:56) 
+[GCC Apple LLVM 13.0.0 (clang-1300.0.29.10) [+internal-os, ptrauth-isa=deployme on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1+1
+2
+>>> PI = 3.14
+>>> PI
+3.14
+>>> print('Hello World!')
+Hello World!
+>>> first_number = int(input('Type the first number: ')) ;\
+... second_number = int(input('Type the second number: ')) ;\
+... print("The sum is: ", first_number + second_number)
+Type the first number: 2
+Type the second number: 3
+('The sum is: ', 5)
+>>> 
